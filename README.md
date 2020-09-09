@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 
 
 ### Languages I am good in:
-HTML & CSS - Beginner
 
-Java - Intermediate
-
-Python - Intermediate
+- HTML & CSS - Beginner
+- Java - Intermediate
+- Python - Intermediate
 
