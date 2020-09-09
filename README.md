@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋  I'm Ketan
 
-<!--
-**Ketan73/Ketan73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on COVID 19 project and some other beginners project.
+- 🌱 I’m currently learning Java, HTML and CSS
+- 👯 I’m looking to collaborate on Python, Java, HTML and CSS
+- 💬 Ask me about Python & Java
+- 📫 This is my E-mail --> ketansuman385@gmail.com
+
+
+### Languages I am good in:
+HTML & CSS - Beginner
+
+Java - Intermediate
+
+Python - Intermediate
+
